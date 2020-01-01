@@ -12,6 +12,6 @@
 
 --- 
 
-**Virtual reality** is the creation of a virtual environment presented to our senses in such a way that we experience it as if we were really there. It uses a host of technologies to achieve this goal for perception and cognition. It has both entertainment and serious uses. The technology is becoming cheaper and more widespread. We can expect to see many more innovative uses for the technology in the future and perhaps a fundamental way in which we communicate and work thanks to the possibilities of virtual reality.
+**Virtual reality** is the perception of a virtual scenario that uses our 5 senses to think it truly is, reality. Using several programs, the technology is used in entertainment or serious purposes to surpass this goal in awareness. As VR becomes more affordable and vast, society can expect the many uses across several fields with even the possibility of a fundamental way in which we communicate and work.
 
 ---
