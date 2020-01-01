@@ -2,7 +2,7 @@
 
 With **VR** and **Ar**, society and buisnesses have been reacting in an absurd way, both with consequences and benefits.
 
-Social Dilemmas & Advantages
+#### Social Problems & Advantages
 ---
 
 * Makes people lose track of time
@@ -13,19 +13,20 @@ Social Dilemmas & Advantages
 
 ---
 
-Economic Difficulties & Perks
-
+#### Economic Difficulties & Perks
 ---
 
+* 
+* Digital "Blue-Light" is exposed more to the eye
+* Costly prices for developments and research
 * Has grossed billions
 * Saves lives for those with autism or spectrum disorder
-* Retail-wise allows prioritizing customer experience and digital aspect. (digital shopping & widespread/global consumers)(custom orders)
-Industry wise it allows points out issues in streamline processes
-In the design field, it allows creation of 3D models, bringing it into scale for us to see. Also allows stronger sales & marketing for easy workflow as well.
-Training to get the most realistic experience you can get. Allows preparation for the real thing so mistakes are minimized. 
-The Global AR Market is Expected to Generate $70-$75 billion in Revenue by 2023
-70-75% of People Aged 16-44 Are Aware of AR
-88% of Mid-Sized Companies Are Already Using AR in Some Capacity
-Thousands of AR Mobile Apps Are Already Available
-Has allowed education, entertainment, productivity & enhancement throughout
-Groundbreaking technology has allowed room for the business industry to boom
+* Retail-wise allows prioritizing customer experience and digital aspect. (Digital Shopping & Global Consumers with customizing orders)
+* Industry wise, it points out issues in streamline processes
+* Designing wise, the creation of 3D models brings scales with stronger sales & marketing for easy workflow.
+* Training wise, practice allows the most realistic experience you can get, meaning preparation for the real situation so mistakes are minimized. 
+* The Global AR Market is Expected to Generate $70-$75 billion in Revenue by 2023
+* 88% of Mid-Sized Companies Are Already Using AR in Some Capacity
+* Has allowed enhancement in education, entertainment, productivity
+
+---
