@@ -16,7 +16,6 @@ With **VR** and **Ar**, society and buisnesses have been reacting in an absurd w
 #### Economic Difficulties & Perks
 ---
 
-* 
 * Digital "Blue-Light" is exposed more to the eye
 * Costly prices for developments and research
 * Has grossed billions
